@@ -1,0 +1,2 @@
+GCP has 20 Regions, 61 Zones, 134 Network edge location, and 200+ Countries and territories     # https://cloud.google.com/about/locations
+
